@@ -24,7 +24,7 @@ The Food Delivery Time Prediction Model aims to estimate the time required for f
 • Integrated OpenCage API for geolocation functionality in the application.
 
 #### OpenCage API Integration
-The application uses the OpenCage API for geolocation to convert addresses into latitude and longitude, with the relevant code snippet located in the main.py file.
+• The application uses the OpenCage API for geolocation to convert addresses into latitude and longitude, with the relevant code snippet located in the main.py file.
 
 ## Technologies
 
