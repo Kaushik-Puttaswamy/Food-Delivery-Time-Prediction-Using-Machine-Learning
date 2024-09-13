@@ -65,25 +65,25 @@ The application uses the OpenCage API for geolocation to convert addresses into 
 
 1. Data Collection: 
 
-• Gathered the food delivery dataset from the provided data source.
+  • Gathered the food delivery dataset from the provided data source.
 
 2. Data Preprocessing:
 
-• Data cleaning to handle missing values, outliers, and inconsistencies.
+  • Data cleaning to handle missing values, outliers, and inconsistencies.
 
-• Feature engineering to extract relevant features.
+  • Feature engineering to extract relevant features.
 
 3. Model Development:
 
-• Trained various regression models including Linear Regression, Decision Trees, Random Forests, and XGBoost.
+  • Trained various regression models including Linear Regression, Decision Trees, Random Forests, and XGBoost.
 
 4. Model Evaluation:
 
-• Used metrics such as MSE, RMSE, and R² score to evaluate model performance.
+  • Used metrics such as MSE, RMSE, and R² score to evaluate model performance.
 
 5. Deployment:
 
-• Deployed the model using Streamlit for real-time predictions. Follow the steps above to run the application.
+  • Deployed the model using Streamlit for real-time predictions. Follow the steps above to run the application.
 
 To run the deployed application, follow these steps:
 
