@@ -109,6 +109,6 @@ To run the deployed application, follow these steps:
 
 
 ## Contact
-Author: [Kaushik](https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/)
+Author: [Kaushik] (https://www.linkedin.com/in/kaushik-puttaswamy-data-analyst/)
 
 
